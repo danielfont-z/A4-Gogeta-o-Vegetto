@@ -85,6 +85,7 @@ img {vertical-align: auto;}
   max-width: 1000px;
   position:sticky;
   margin: auto;
+  padding: 10%;
 }
 
 /* Next & previous buttons */
@@ -196,4 +197,5 @@ img {vertical-align: auto;}
     #main h1 {
         font-size: 35px;
     }
+   
 }
